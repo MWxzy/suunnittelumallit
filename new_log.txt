@@ -1,0 +1,6 @@
+[2026-09-08 19:52:04] --- Log file changed to: new_log.txt ---
+[2026-09-08 19:52:04] This message goes to the new file
+[2026-09-08 19:52:04] Simulation finished
+[2026-09-08 19:52:04] --- Logger closed ---
+[2026-09-08 19:52:04] Attempting to write after close...
+[2026-09-08 19:52:04] --- Logger closed ---
